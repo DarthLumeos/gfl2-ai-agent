@@ -1,1 +1,1 @@
-# gf12-ai-agent
+# gfl2-ai-agent
